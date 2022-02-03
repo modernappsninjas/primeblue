@@ -75,7 +75,7 @@ test3_Incorrect_Response_Count: 3
 #####  
 test3_Percent_Correct: 0%
 #####  
-test3_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/primeblue/blob/main/static/userdata/courses/vspheretanzu201_vt4599/grade_report.pr473.test3.md)"
+test3_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/primeblue/blob/main/static/userdata/courses/vspheretanzu201_vt4599/grade_report.pr474.test3.md)"
 ##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
   
 ---  
